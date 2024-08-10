@@ -14,11 +14,3 @@
 $('#signButton').click(function(){
   $('#hiddenForm').show();
 });
-
-/* Google form mobile */
-@media screen and (max-width:767px) {
-iframe {
-    width: 100% !important;
-    height: 800px;
-}
-}
