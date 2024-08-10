@@ -17,7 +17,7 @@ $('#signButton').click(function(){
 
 /* Google form mobile */
 @media screen and (max-width:767px) {
-iframe[src*="google.com/forms"] {
+iframe[src*="docs.google.com"] {
     width: 100% !important;
     height: 800px;
 }
