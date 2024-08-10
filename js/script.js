@@ -10,3 +10,7 @@
  
 
 })(jQuery);
+
+$('#signButton').click(function(){
+  $('#hiddenForm').show();
+});
